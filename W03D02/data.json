@@ -1,0 +1,9 @@
+{
+    "name": "Velavan",
+    "age": 28,
+    "languages": [
+        "Python",
+        "Java"
+    ],
+    "magical": true
+}

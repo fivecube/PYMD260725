@@ -1,0 +1,2 @@
+We are learning Python, and it feels so good!!
+This is how file writing works in Python

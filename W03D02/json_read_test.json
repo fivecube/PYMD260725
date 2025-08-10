@@ -1,0 +1,12 @@
+{
+    "name": "Ritwik",
+    "age": 28,
+    "languages": [
+        "Python",
+        "Java",
+        "C++",
+        "Javascript"
+    ],
+    "magical": false,
+    "happiest": true
+}
